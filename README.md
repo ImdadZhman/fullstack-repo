@@ -1,1 +1,2 @@
 # fullstack-repo
+# Database Configuration
