@@ -5,4 +5,6 @@ from django.http import HttpResponse
 
 def TestView(request):
     return HttpResponse("Welcome to out Test View")
+def TeachView(request):
+    return HttpResponse("This is Teacher view")
 
